@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{99EAFC2E-0365-4854-8068-B770828BB49F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="18" />
+      <File FileName="Player.cs" Line="12" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssignmentOne" expanded="True">
+            <Node name="AssignmentOne" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AssignmentOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
